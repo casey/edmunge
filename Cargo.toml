@@ -1,0 +1,15 @@
+[package]
+name        = "edmunge"
+description = "❓ Use the classic unix text editor as a scripting language"
+authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
+homepage    = "https://github.com/casey/edmunge"
+license     = "CC0-1.0"
+version     = "1.0.0"
+
+[dependencies]
+clap     = "2.31.2"
+regex    = "1.0.0"
+tempfile = "3.0.2"
+
+[dev-dependencies]
+executable-path = "1.0.0"
