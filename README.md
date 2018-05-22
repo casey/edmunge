@@ -28,6 +28,8 @@ My sweet document?
 $ cargo install edmunge
 ```
 
-This was inspired by Julia Evan's [blog post on batch-editing files with ed](https://jvns.ca/blog/2018/05/11/batch-editing-files-with-ed/).
+## inspiration
+
+`edmunge` was inspired by Julia Evan's [blog post on batch-editing files with ed](https://jvns.ca/blog/2018/05/11/batch-editing-files-with-ed/) and funded thanks to a generous grant from [the RAND Corporation](https://www.rand.org/).
 
 To improve your ed skills, I recommend the delightful [Ed Mastery](https://www.michaelwlucas.com/tools/ed) by Michael W. Lucas.
