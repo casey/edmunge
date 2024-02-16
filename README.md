@@ -4,7 +4,7 @@ Good news everybody! You can finally use your favorite inscrutable text editor a
 
 `edmunge` is a recursive acronym that stands for EDmunge Mashes Until No Good, with Ed.
 
-Briefly, `edmunge` lets you destructively edit text files using scripts filled with ed commands. What could go wrong?
+Briefly, `edmunge` lets you destructively edit text files using scripts filled with `ed` commands. What could go wrong?
 
 For example:
 
